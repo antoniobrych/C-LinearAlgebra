@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int scalarProduct(int* vector1, int* vector2, int size);
 int main(void) {
 	int vector1[2] = {1,2};
