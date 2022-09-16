@@ -30,10 +30,3 @@ int scalarProduct(int* vector1, int* vector2,int size) {
 
 
 
-void test(void) {
-	int arr1[3][3];
-	int** arr2 = (int**)malloc(sizeof(int*) * 3);
-	for (int i = 0;i <= 3;i++) {
-		arr2[i] = (int*)malloc(sizeof(int) * 3);
-	}
-}
