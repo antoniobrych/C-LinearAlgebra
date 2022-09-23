@@ -17,15 +17,3 @@ int scalarProduct(int* vector1, int* vector2,int size) {
 	}
 	return res;
 }
-
-
-
-
-
-
-
-
-
-
-
-
